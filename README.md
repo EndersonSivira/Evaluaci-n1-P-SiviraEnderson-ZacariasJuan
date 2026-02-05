@@ -30,7 +30,6 @@ php artisan key:generate
 php artisan migrate:fresh --seed
 
 6-Ver el proyecto:
-
 Ejecuta el comando: php artisan serve
 
-Abre en el navegador: http://127.0.0.1:8000/vehiculos
+Abre en el navegador: http://127.0.0.1:8000/Productos
